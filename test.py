@@ -1,1 +1,2 @@
-#testings
+print("hello world");
+
